@@ -1,10 +1,7 @@
-# Mahawiki
-Mahawiki 30 Days coding challenge
+#  Mahawiki MahaChallenge
+## Mahawiki 30 Days coding challenge
 
-<b>Mahawiki MahaChallenge</b>
-
-About 30 Days coding challenge.
-
+### About 30 Days coding challenge.
 
 For newbies in tech world who have the caliber and need a master platform to excel in their skills of interest,
 ProlificMe team in association with GirlScript Nashik, has organized The Knowledge Worth Sharing - MahaWiki's National level 
@@ -24,3 +21,17 @@ You can Add your solution in respective folder and push a commit.
 Add your name as a mentainer.
 
 
+#### Day 1: Introducation to  Git and github
+  **Goto Day1 folder to read complete problem statements and solutions.**
+
+#### Day 2: Dark Knight Rises
+Batman and Joker are fighting again. 
+  **Goto Day2 folder to read complete problem statements and solutions.**
+ 
+#### Day 3: Joker And Acid
+After his defeat on ChessBoard Joker thinks he can kill Batman by giving him Acid to drink thereby making him choke.
+  **Goto Day3 folder to read complete problem statements and solutions.**
+  
+#### Day 4:Batman In a MAZE
+Batman is running behind Joker for sending him Acids. 
+  **Goto Day4 folder to read complete problem statements and solutions.**
