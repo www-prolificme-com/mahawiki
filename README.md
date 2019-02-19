@@ -18,4 +18,9 @@ that is gained during their learning curve in college. Through this activity,
 ProlificMe team is trying to identify the brilliant coding geeks from various 
 engineering colleges across various Tier-2 and Tier-3 cities.
 
-This Repo contains problem statement as well as solutions of mahawiki coding challenge.
+<b>This Repository contains problem statement as well as solutions of mahawiki coding challenge.</b>
+
+You can Add your solution in respective folder and push a commit.
+Add your name as a mentainer.
+
+
