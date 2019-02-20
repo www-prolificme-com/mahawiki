@@ -4,6 +4,8 @@ https://github.com/gauravburjwal
 <b>This project is done for MahaWiki Coding Challenge</b>
 Shoping Website :- https://github.com/gauravburjwal/shopping-website
 
+The website is deployed on Netlify and can be accessed from this URL- https://shopping-website.netlify.com/
+
 
 Available Scripts
 
