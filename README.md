@@ -35,3 +35,6 @@ After his defeat on ChessBoard Joker thinks he can kill Batman by giving him Aci
 #### Day 4:Batman In a MAZE
 Batman is running behind Joker for sending him Acids. 
   **Goto Day4 folder to read complete problem statements and solutions.**
+
+#### The Python Challenge
+Code. Commit. Pull Request.
