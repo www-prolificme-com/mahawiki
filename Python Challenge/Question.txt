@@ -1,5 +1,0 @@
-Q1. There is an array with every element repeated twice except one. Write a function to find that element. For example, if given array is [1,1,2,2,3,4,4,5,5] then your program should return 3
-
-Q2. Write a function to find all pairs in an integer array whose sum is equal to a given number. 
-
-Q3. Write a function to return most occuring character in a String. For example if input is ‘aaaaaaaaaaaaaaaaaabbbbcddddeeeeee’ it should return “a”.
