@@ -17,24 +17,24 @@ engineering colleges across various Tier-2 and Tier-3 cities.
 
 <b>This Repository contains problem statement as well as solutions of mahawiki coding challenge.</b>
 
-You can Add your solution in respective folder and push a commit.
-Add your name as a mentainer.
+### Data structure And Algoritham 
+
+Day |Problem  | Description 
+------------ | ------------ | -------------
+Day 1 | Introducation to  Git and github|  Goto Day1 folder to read complete problem statements and solutions.
+Day 2 |Dark Knight Rises | Goto Day2 folder to read complete problem statements and solutions.
+Day 3 | Joker And Acid | Goto Day3 folder to read complete problem statements and solutions.
+Day 4 | Batman In a MAZE | Goto Day4 folder to read complete problem statements and solutions.
 
 
-#### Day 1: Introducation to  Git and github
-  **Goto Day1 folder to read complete problem statements and solutions.**
+###  [The Python Challenge] 
+(https://github.com/www-prolificme-com/mahawiki/blob/master/Python%20Challenge/REDME.md)
+      
 
-#### Day 2: Dark Knight Rises
-Batman and Joker are fighting again. 
-  **Goto Day2 folder to read complete problem statements and solutions.**
- 
-#### Day 3: Joker And Acid
-After his defeat on ChessBoard Joker thinks he can kill Batman by giving him Acid to drink thereby making him choke.
-  **Goto Day3 folder to read complete problem statements and solutions.**
-  
-#### Day 4:Batman In a MAZE
-Batman is running behind Joker for sending him Acids. 
-  **Goto Day4 folder to read complete problem statements and solutions.**
+Day |Problem  |
+------------ | ------------ 
+Day 1 |  There is an array with every element repeated twice except one. Write a function to find that element.
+Day 2 | Write a function to find all pairs in an integer array whose sum is equal to a given number.
+Day 3 | Write a function to return most occuring character in a String.
 
-#### The Python Challenge
 Code. Commit. Pull Request.
