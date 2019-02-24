@@ -26,9 +26,15 @@ Day 2 |Dark Knight Rises | Goto Day2 folder to read complete problem statements 
 Day 3 | Joker And Acid | Goto Day3 folder to read complete problem statements and solutions.
 Day 4 | Batman In a MAZE | Goto Day4 folder to read complete problem statements and solutions.
 
+### [Web Development and Designing](Web-Development/REDME.md)
 
-###  [The Python Challenge] 
-(https://github.com/www-prolificme-com/mahawiki/blob/master/Python%20Challenge/REDME.md)
+**Sr. No |Project | Owner |  Description **
+------------ | ------------ | -------------|-----------------
+1 | Shoping-Website |  [gauravburjwal](https://github.com/gauravburjwal/) | [Redme.md](Web-Development/Gaurav-Burjwal-Shoping-Website.md)
+2 |iQuote | [Priyabrata Biswas](https://github.com/pbiswas101)|[REDME.md](Web-Development/Priyabrata-Biswas-iQuote.md)
+3 | Mahawiki-Restaurant-Project |[Siddhesh Khedekar](https://github.com/SiddheshKhedekar)|[REDME.md](Web-Development/SiddheshKhedekar-RestaurantWebsite.md)
+
+###  [The Python Challenge](Python-Challenge/REDME.md)
       
 
 Day |Problem  |
