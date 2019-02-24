@@ -33,6 +33,7 @@ Day 4 | Batman In a MAZE | Goto Day4 folder to read complete problem statements 
 1 | Shoping-Website |  [gauravburjwal](https://github.com/gauravburjwal/) | [README.md](Web-Development/Gaurav-Burjwal-Shoping-Website.md)
 2 |iQuote | [Priyabrata Biswas](https://github.com/pbiswas101)|[README.md](Web-Development/Priyabrata-Biswas-iQuote.md)
 3 | Mahawiki-Restaurant-Project |[Siddhesh Khedekar](https://github.com/SiddheshKhedekar)|[README.md](Web-Development/SiddheshKhedekar-RestaurantWebsite.md)
+4|AppLanding website| [shashank](https://github.com/shashank-sj)| [README.md](Web-Development/Shashank_AppLanding_website.md)
 
 ###  [The Python Challenge](Python-Challenge/README.md)
       
