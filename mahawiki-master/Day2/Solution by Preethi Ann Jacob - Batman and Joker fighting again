@@ -1,0 +1,59 @@
+'''
+Answer to Q1.Batman and Joker are fighting again
+Language : Python 2
+All Testcases accepted
+--------------------------------------------------------
+Explanation:
+
+To get maximum knights in the custom n*m chessboard, generally place the knights in the alternate squares ie Half the no of boxes becomes knights. Therefore
+Maximum no of non hurting knights = (n*m)/2       if n*m is even  (get the half)
+                                  = ((n*m)+1)/2   if n*m is odd   (get the bigger half)
+This is true for all chessboards with both no of rows and columns greater than or equal to 3
+eg. 3*5 chessboard      4*6 chess         
+    kokok               kokoko
+    okoko               okokok
+    kokok               kokoko    
+                        okokok
+    No of knights=8     no of knights=12
+
+Exception:
+
+Case 1: If either no of rows or columns is 1, then no of nonhurting knights = bigger of no of rows and columns
+        eg. 1*4 chessboard
+            kkkk 
+            No of knights=4
+    
+Case 2: If either no of rows or columns is 2, 
+        eg. 2*2 chessboard    2*3 chessboard    2*4 chessboard    2*5 chessboard    2*6 chessboard 
+            kk                kko               kkoo              kkook             kkookk
+            kk                kko               kkoo              kkook             kkookk
+            No of knights=4   No of knights=4   No of knights=4   No of knights=6   No of knights=8
+        Here we can group 4 knights together.
+--------------------------------------------------------------------------------------------------------------------------        
+Variable description:
+
+t=no of testcases
+n=no of rows
+m=no of columns
+solution=maximum no of knights possible
+i=index variable
+--------------------------------------------------------
+import math
+t=input()
+for i in range(t):
+    n,m=map(int,raw_input().split())
+    solution = 0
+    if m == 1 or n == 1:
+        solution = max(m,n)
+    elif m == 2 or n == 2:
+        solution = math.floor(( max(m,n) / 4 ) * 4)
+        if ( max(m,n) % 4 == 1):
+            solution+=2
+        elif ( max(m,n) % 4 > 1):
+            solution+=4
+    else:
+        solution = m*n
+        if(solution%2 !=0):
+            solution+=1
+        solution=solution/2
+    print int(solution)

@@ -1,0 +1,46 @@
+ 
+Dear Participant, 
+ProlificMe welcomes you all for your journey to be a Mahawikian..! 
+Let us all make our hands dirty by coding with fun..!  
+Before starting with the challenge, it is mandatory for every contestant to get hands on knowledge on Github which is the most widely used and easiest documentation tool used by developers.
+
+What is Github ?
+Github is a web-based hosting service popularly used by developers to store their development code in managed repositories.This stored code is open-source and multiple developers can use the code to make new versions of the existing version of projects stored or instead the code files can also be directly accessed by others too.Hence we can say that Github is a version controlled platform used by developers to track the modifications made in the project during development phase.It is Open-source central platform started by Linus Trovalds.
+
+What are advantages and features of using Github?
+•	Easy contributions for existing open source projects can be done by just forking the project.Th modificated new version can be again shared on same repository by issuing pull requests.
+•	Best documentation tool for showcasing project ideas, reviews etc.
+•	Free and open source platform easily available on Internet.
+•	Secure and easy to handle operations on files.
+
+
+DAY 1 
+TASK : Get handson online training on Git and Github .
+RULES :
+1.	You will get 2 online courses links .Participant must complete any one course before deadline.
+2.	Share the certificate on Linkedin, Twitter, Instagram and Facebook with these hashtags  (#mahawiki #mahawikichallenge #mahawikicodingchallenge #mahawikicodingcontest #prolificMe #girlscript #girlscriptnashik #girlscriptmanipal #girlscriptbhopal #github #git #mahawikian #mahawikians #mahawikiday1)
+3.	Tag @github and @udemy @mahawiki
+4.	Share your github profile link along with the certificate and above task
+5.	You must complete the task within 24 hours and report to us at prolificmeteam@gmail.com in a proper email .Points to be considered while writing the email.
+i.	Email must have proper subject. For example :
+
+Mahawiki Contest Day 1 Assignment : Github Training Completion
+    ii.    Mention your confirmation of task completion.Share your online certificate that you will get after completing the course.Also share your profile urls where you have shared the certificate on social media.
+    iii.   If you have any doubt, please feel free to contact us.
+
+WHAT BENEFIT YOU WILL GET FROM THIS TASK? 
+•	Get familiar with Git and Github.
+•	Certificate of completion.
+•	Learn to write email and social media marketing.
+•	Your will be given points for this assignment.
+
+START DATE : 25 January 2019 , 12: 00 pm
+END DATE :26 January 2019, 12: 00 pm
+DEADLINE : 27 January 2019 , 2 : 00 pm
+
+COURSE LINKS : Complete any one from below
+ https://www.udemy.com/git-quick-start/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-BNz.YdqpFYGrIJr0kYMZDQ&LSNPUBID=JVFxdTr9V80
+
+https://www.udemy.com/short-and-sweet-get-started-with-git-and-github-right-now/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-xZkmON9vi6FP2UL8CqqSUA&LSNPUBID=JVFxdTr9V80
+
+*************LEARN_CODE_ENJOY_WITH_FUN****************

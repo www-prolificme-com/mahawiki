@@ -1,0 +1,22 @@
+Language: Python2
+Result : All testcases passed
+
+Explanation:
+Try some examples manually, and you will find a pattern that somewhat resembles the long division method for finding hcf. The final count needed is bigger-jar-volume/hcf 
+
+-------------------------------------------------------
+Program:
+
+def hcf(a,b):
+    if a==0:
+        return b
+    else:
+        return hcf(b%a,a)
+t=input()
+for i in range(t):
+    a,b=map(int,raw_input().split())
+    if(a>b):
+        a,b=b,a
+    h=hcf(a,b)
+    count=b/h
+    print count     
