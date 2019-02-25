@@ -15,9 +15,17 @@ for i in x:
 // print the single appeared elements
   print(i)
   
-  Complete Code
+  Complete Code--
   
-  x = [1,2,5,5,8,4,0,4,1,2,8,10,11]
+x = [1,2,5,5,8,4,0,4,1,2,8,10,11]
+print("No's that are appeared exactly once are :")
 for i in x:
   if(x.count(i) !=2):
     print(i)
+
+Output -- 
+
+No's that are appeared exactly once are :
+0
+10
+11
