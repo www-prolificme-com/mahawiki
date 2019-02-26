@@ -30,7 +30,7 @@ Day 4 | Batman In a MAZE | Goto Day4 folder to read complete problem statements 
 
 **Sr. No |Project | Owner |  Description **
 ------------ | ------------ | -------------|-----------------
-1 | Shoping-Website |  [gauravburjwal](https://github.com/gauravburjwal/) | [README.md](Web-Development/Gaurav-Burjwal-Shoping-Website.md)
+1 | Shopping-Website |  [gauravburjwal](https://github.com/gauravburjwal/) | [README.md](Web-Development/Gaurav-Burjwal-Shoping-Website.md)
 2 |iQuote | [Priyabrata Biswas](https://github.com/pbiswas101)|[README.md](Web-Development/Priyabrata-Biswas-iQuote.md)
 3 | Mahawiki-Restaurant-Project |[Siddhesh Khedekar](https://github.com/SiddheshKhedekar)|[README.md](Web-Development/SiddheshKhedekar-RestaurantWebsite.md)
 4|AppLanding website| [shashank](https://github.com/shashank-sj)| [README.md](Web-Development/Shashank_AppLanding_website.md)
@@ -38,10 +38,22 @@ Day 4 | Batman In a MAZE | Goto Day4 folder to read complete problem statements 
 ###  [The Python Challenge](Python-Challenge/README.md)
       
 
-Day |Problem  |
+Question |Problem  |
 ------------ | ------------ 
-Day 1 |  There is an array with every element repeated twice except one. Write a function to find that element.
-Day 2 | Write a function to find all pairs in an integer array whose sum is equal to a given number.
-Day 3 | Write a function to return most occuring character in a String.
+Question 1 | There is an array with every element repeated twice except one. Write a function to find that element.
+Question 2 | Write a function to find all pairs in an integer array whose sum is equal to a given number.
+Question 3 | Write a function to return most occuring character in a String.
 
 Code. Commit. Pull Request.
+
+
+###  [The Python Challenge-II](Python-Challenge-II/README.md)
+      
+
+Question |Problem  |
+------------ | ------------ 
+Question 1| Given an array of 99 integers between 1-100, find the nmissing integer. No integer is repeated and only one integer is missing. (Preferably do it in a single pass,or max. 3 passes) (Code must be most optimised, for time and space complexity. 
+Question 2| Write a function to count the occurence of all characters occuring in 2 given strings consisting of letters only. For example, String 1 is "Surgical Strike" and string 2 is "by Indian Army", it should print the occurence of every letter say S=2, U=1,R=3,G=1,I=4 etc.
+Question 3| Given a range, print the output in the following fashion as given in the example. 
+            Range : 1 100
+            Print : 1 99 2 98 3 97 4 96 5 95 ... 
