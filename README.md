@@ -17,7 +17,7 @@ engineering colleges across various Tier-2 and Tier-3 cities.
 
 <b>This Repository contains problem statement as well as solutions of mahawiki coding challenge.</b>
 
-### Data structure And Algoritham 
+### Data structure And Algorithms
 
 Day |Problem  | Description 
 ------------ | ------------ | -------------
@@ -26,7 +26,7 @@ Day 2 |Dark Knight Rises | Goto Day2 folder to read complete problem statements 
 Day 3 | Joker And Acid | Goto Day3 folder to read complete problem statements and solutions.
 Day 4 | Batman In a MAZE | Goto Day4 folder to read complete problem statements and solutions.
 
-### [Web Development and Designing](Web-Development/REDME.md)
+### [Web Development and Designing](Web-Development/README.md)
 
 **Sr. No |Project | Owner |  Description **
 ------------ | ------------ | -------------|-----------------
