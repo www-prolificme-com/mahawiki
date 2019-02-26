@@ -1,0 +1,43 @@
+Problem statement 2. Write a function to find all pairs in an integer array whose sum is equal to a given number.
+
+//A sum variable which will prompt by user
+
+sum = int(input("Enter sum of values to find pair: "))
+
+//An array
+x = [1,2,5,5,8,0,3,4,10,6]
+
+//Resultant Array that will print the resultant pairs
+ans = []
+
+// Outer loop will traverese the array elements one by one
+// Inner loop will traverse the subsequent array elements followed by outer loop elements
+for i in range(0,len(x)-1):
+  for j in range(i+1,len(x)):
+  
+  // if during traversal we found any pair of numbers having sum equals to given user given sum, it will return both the elements 
+  and make their pairs
+    if x[i] + x[j] == sum:
+    
+  // Append the resultant pairs in ans array  
+      ans.append((x[i],x[j]))
+      
+   // print the array   
+print(ans
+
+
+Complete code--
+
+sum = int(input("Enter sum of values to find pair: "))
+x = [1,2,5,5,8,0,3,4,10,6]
+ans = []
+for i in range(0,len(x)-1):
+  for j in range(i+1,len(x)):
+    if x[i] + x[j] == sum:
+      ans.append((x[i],x[j]))
+print(ans)
+
+Output--
+
+Enter sum of values to find pair: 10
+[(2, 8), (5, 5), (0, 10), (4, 6)]
