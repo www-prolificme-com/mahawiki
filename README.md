@@ -57,6 +57,6 @@ Code. Commit. Pull Request.
 
 Question |Problem  |
 ------------ | ------------ 
-Question 1 | Given an array of 99 integers between 1-100, find the nmissing integer. No integer is repeated and only one integer is missing. (Preferably do it in a single pass,or max. 3 passes) (Code must be most optimised, for time and space complexity. 
+Question 1 | Given an array of 99 integers between 1-100, find the missing integer. No integer is repeated and only one integer is missing. (Preferably do it in a single pass,or max. 3 passes) (Code must be most optimised, for time and space complexity. 
 Question 2 | Write a function to count the occurence of all characters occuring in 2 given strings consisting of letters only. For example, String 1 is "Surgical Strike" and string 2 is "by Indian Army", it should print the occurence of every letter say S=2, U=1,R=3,G=1,I=4 etc.
 Question 3 | Given a range, print the output in the following fashion as given in the example. Range : 1 100 Print : 1 99 2 98 3 97 4 96 5 95 ... 
