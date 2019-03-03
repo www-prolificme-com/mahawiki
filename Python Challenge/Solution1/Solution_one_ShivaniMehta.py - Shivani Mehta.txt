@@ -22,6 +22,7 @@ print("No's that are appeared exactly once are :")
 for i in x:
   if(x.count(i) !=2):
     print(i)
+    break
 
 Output -- 
 

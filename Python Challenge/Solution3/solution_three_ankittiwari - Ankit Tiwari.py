@@ -17,7 +17,7 @@ def most_recurring_1(s_input):
     # sorted_dict contains list of tuples sorted by values of key in descending order because reverse is set to
     # true
 
-    print(sorted_dict)
+    #print(sorted_dict)
     return sorted_dict[0][0] # sorted_dict[0] is tuple sorted_dict[0][0] is first element of 0th tuple
 
 
