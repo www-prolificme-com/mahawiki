@@ -34,7 +34,7 @@ ans = []
 for i in range(0,len(x)-1):
   for j in range(i+1,len(x)):
     if x[i] + x[j] == sum:
-      ans.append((x[i],x[j]))
+      ans.append((x[i],x[j])) #DUPLICATES WILL BE ADDED TO FOR EG IF INPUT ARRAY IS 1 1 1 1 USE SETS
 print(ans)
 
 Output--
